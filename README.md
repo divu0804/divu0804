@@ -1,4 +1,4 @@
-  <img src="Assets/_hello world  (1).png">
+  <img src="Assets/_hello world .png">
   <p align="center"> 
     Visitor count<br>
     <img src="https://profile-counter.glitch.me/divu0804/count.svg" />
