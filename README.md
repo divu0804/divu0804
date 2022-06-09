@@ -10,7 +10,7 @@
   </h1>
 
 
-    <img align='right' src="Assets/img.png" width="230" >  
+  <img align='right' src="Assets/img.png" width="230" >  
 
 
   <p><em>
