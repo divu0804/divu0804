@@ -29,6 +29,8 @@
     aka: "Div" | "April",
     work: "Student",
     favorite: "Thermocolsoup"
+    code: ["Javascript", "Python", "Java", "PHP"],
+    fun fact: "There are two ways to write error-free programs; only the third one works"
   }
   ```
 
