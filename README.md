@@ -39,34 +39,73 @@
   ## Skills
 
   <div align="center">
-  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  </div>
-
-  <div align="center">
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  </div>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
-  <div align="center">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
-  </div>
+<div align="center">
+  <!-- Frameworks and Tech -->
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/three.js%20-%23000000.svg?&style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/serverless%20-%23FD5750.svg?&style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/xml-%23007700.svg?&style=for-the-badge&logo=xml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ajax-%23FF4500.svg?&style=for-the-badge&logo=ajax&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+</div>
 
-  <div align="center">
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
+<div align="center">
+  <!-- Cloud Technologies -->
+  <img src="https://img.shields.io/badge/aws%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/google%20cloud%20platform%20-%23007ACC.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rest%20api-%23000000.svg?&style=for-the-badge&logo=rest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gitlab-%23FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
-  </div>
+  <img src="https://img.shields.io/badge/sql%20server-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+</div>
+
+<div align="center">
+  <!-- Tools and Version Control -->
+  <img src="https://img.shields.io/badge/vs%20code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+<div align="center">
+  <!-- Database Systems -->
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+<div align="center">
+  <!-- Testing -->
+  <img src="https://img.shields.io/badge/unit%20testing-%23501BCC.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/integration%20testing-%23000000.svg?&style=for-the-badge"/>
+</div>
+
+<div align="center">
+  <!-- Other Skills -->
+  <img src="https://img.shields.io/badge/power%20automate-%230078D4.svg?&style=for-the-badge&logo=microsoft-power-automate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/power%20bi-%23F2C811.svg?&style=for-the-badge&logo=power-bi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/data%20analysis-%2312100E.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/algorithms-%23000000.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/dbms-%23000000.svg?&style=for-the-badge"/>
+</div>
+
 
   <br>
   <hr>
