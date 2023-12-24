@@ -15,14 +15,13 @@
 
   <p><em>
     Master's student at 🏛 University of Ottawa majoring in Computer Science👩‍🎓.<br>
-    I’m currently learning everything... that I need to fill my gaps to become a better programmer.<br>
-    I was a software developer at <a href="https://www.kochind.com/">KOCH.</a>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    I’m currently learning everything... that I need to fill my gaps to become a better programmer.<br> 
   </em></p>
   
 
   <br>
-  A little more about me...  
+  A little more about me... <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+
 
   ```javascript
   const Me = {
